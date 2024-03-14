@@ -1,0 +1,1 @@
+# Complete-nxm-symbolic-pattern
